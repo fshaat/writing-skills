@@ -1,0 +1,15 @@
+# F11 (DEFAULT, owner to confirm): project-internal tags that must never reach the paper. One regex per line.
+\bBlind-10\b
+\bV10\b
+\bGP-[EU]\b
+\bgpe2[0-9]*\b
+\brun_gpe\b
+\bRUN13\b
+\bNX-[A-Z0-9]+\b
+\bKI-[0-9]+\b
+\bWARM3\b
+\bTHESIS_RUNV2\b
+\brun-v2\b
+\bPart[0-9]_COMPLETED\b
+\bDEV100\b
+\bENS[0-9]+\b
